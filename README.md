@@ -152,6 +152,9 @@ streamlit run main.py
 
 ▶️ **Demo Video (MP4):**  
 [Click here to watch the demo of how to run the project](assets/demo1.mp4)
+
 [Click here to watch the demo of how to upload and search using URLs](assets/demo2.mp4)
+
 [Click here to watch the demo of how to upload csv files and do statistical analysis](assets/demo3.mp4)
+
 [Click here to watch the demo of how to generally ask questions on the UI](assets/demo4.mp4)
