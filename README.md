@@ -16,11 +16,6 @@ This project was developed as part of a **Bachelor of Technology (B.Tech) thesis
 - [Installation & Setup](#-installation--setup)
 - [Usage Guide](#-usage-guide)
 - [Demo](#-demo)
-- [Project Structure](#-project-structure)
-- [Use Cases](#-use-cases)
-- [Future Scope](#-future-scope)
-- [Thesis Reference](#-thesis-reference)
-- [License](#-license)
 
 ---
 
